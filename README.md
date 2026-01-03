@@ -29,17 +29,14 @@ Here are some ideas to get you started:
   <br/>
   <br/>
 
-  <p>
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Eric9599&show_icons=true&theme=radical&hide_border=true" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric9599&layout=compact&theme=radical&hide_border=true" />
-  </p>
+  ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric9599&show_icons=true&theme=radical&hide_border=true)
+
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric9599&layout=compact&theme=radical&hide_border=true)
 
 </div>
-
-<br/>
 
 ### 🛠 Tech Stack
 - **Languages**: C#, Python
 - **Frameworks**: .NET Core, Web API
 - **Testing**: xUnit, TDD
-- **Tools**: Git, Docker 
+- **Tools**: Git, Docker, Neovim (LazyVim)
