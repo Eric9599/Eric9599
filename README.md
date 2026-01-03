@@ -29,9 +29,9 @@ Here are some ideas to get you started:
   <br/>
   <br/>
 
-  ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eric9599&show_icons=true&theme=radical&hide_border=true)
+  ![Eric's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Eric9599&show_icons=true&theme=radical&hide_border=true)
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eric9599&layout=compact&theme=radical&hide_border=true)
+  ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Eric9599&layout=compact&theme=radical&hide_border=true)
 
 </div>
 
